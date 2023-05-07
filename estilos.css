@@ -118,6 +118,14 @@ float: left;
         justify-content: space-between;
         margin-top: 55;
      }
+     .general-1:hover,
+     .general-2:hover,
+     .general-3:hover,
+     .general-4:hover,
+     .general-5:hover {
+         transform: scale(1.1);
+         transition: all 0.3s;
+     }
 
      .general-1{
         background-image: url(PORTADAS/C1.png);
